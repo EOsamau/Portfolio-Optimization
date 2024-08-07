@@ -1,15 +1,23 @@
-<h1> Portfolio Optimization with Genetic Algorithm</h1>
+# Portfolio Optimization and Stock Price Prediction
 
-<!--
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
--->
+## Overview
+This project uses a genetic algorithm to optimize portfolio allocation and predict stock prices. We aim to improve portfolio performance by balancing returns and risks.
 
-<h2>Description</h2>
-This project focuses on utilizing genetic algorithm to enhance portfolio optimization and predict stock prices. It aims to develop a framework for improving portfolios by optimizing asset allocation, with the ultimate goal of achieving an optimal return-to-risk ratio. The project involves gathering historical price data for 10 diverse assets and then applying genetic algorithms through the GA package to optimize portfolio weights, striking a balance between returns and risk
-<br />
+## Key Components
+1. Data Collection: Historical price data for 10 assets.
+2. Genetic Algorithm: Optimize portfolio weights for better returns-to-risk ratio.
+3. Predictive Modeling: Random Forest algorithm to forecast stock prices.
 
+## Results
+- Optimized Portfolio: Expected return of 0.31%, risk of 5.48%.
+- Comparison: Outperformed Balanced and Risky portfolios in risk-adjusted returns.
+## Structure
+ - data/: Historical price data from NASDAQ
+- scripts/: Code for data processing, optimization, and prediction.
+- results/: Optimization and prediction results.
+- script/: RMarkdown for analysis.
 
-<h2>Languages and Packages Used</h2>
+### Acknowledgments
+I would like to thank the creators of the GA package as well as the financial data providers for making this project possible.
 
-- <b>R </b> 
 
