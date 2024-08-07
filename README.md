@@ -1,4 +1,4 @@
-# Portfolio Optimization and Stock Price Prediction
+# Portfolio Optimization using Genetic Algorithm
 
 ## Overview
 This project uses a genetic algorithm to optimize portfolio allocation and predict stock prices. We aim to improve portfolio performance by balancing returns and risks.
